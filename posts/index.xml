@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Articles on Mediorgan</title>
+    <link>https://mediorgan.github.io/posts/</link>
+    <description>Recent content in Articles on Mediorgan</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 30 Apr 2020 23:16:48 +0530</lastBuildDate>
+    
+	<atom:link href="https://mediorgan.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Setting Up the New Windows Terminal</title>
+      <link>https://mediorgan.github.io/posts/setting-up-the-new-windows-terminal/</link>
+      <pubDate>Thu, 30 Apr 2020 21:53:07 +0530</pubDate>
+      
+      <guid>https://mediorgan.github.io/posts/setting-up-the-new-windows-terminal/</guid>
+      <description>Microsoft announced the release of the new windows terminal back in May this year with an eye-catching video. And it&amp;rsquo;s opensource.
+WARNING! It is still in preview.
+Prerequisites   You should be on atleast Windows Version 1903 (build 18362) or.
+  Desktop Bridge VC++ v14 Redistributable Package (For Manual Installation)
+  Installation There are three methods of installing the Terminal.
+  From Microsoft Store (with automatic updates)</description>
+    </item>
+    
+    <item>
+      <title>Getting Started with Visual Studio Code</title>
+      <link>https://mediorgan.github.io/posts/getting-started-with-visual-studio-code/</link>
+      <pubDate>Thu, 30 Apr 2020 21:23:20 +0530</pubDate>
+      
+      <guid>https://mediorgan.github.io/posts/getting-started-with-visual-studio-code/</guid>
+      <description>Everybody who writes, let it be a story, a piece of code or maybe to take a few notes or something, you need a text editor. This is where VSCode comes in. It can do all a simple note-taking app can do and much more.
+With extensions you can extend the functionality of the editor. For example, with Better Fountain extension you can write and format screenplays.
+In this article, you&amp;rsquo;ll learn about installing and basic setup and an overview of some of its features and extensions.</description>
+    </item>
+    
+  </channel>
+</rss>
